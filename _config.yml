@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: baqixiaozhu/vsky.github.io
-github_url: http://github.com/baqixiaozhu
-url: http://vsky.github.io
+github_url: https://github.com/baqixiaozhu
+url: https://vsky.github.io
 enforce_ssl: vsky.github.io
 
 ## Gem
