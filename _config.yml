@@ -15,7 +15,7 @@ keywords: vsky,软件测试,性能测试,压力测试,自动化测试,jmeter,sel
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: baqixiaozhu/vsky.github.io
+repository: baqixiaozhu/vsky
 github_url: https://github.com/baqixiaozhu
 url: https://vsky
 enforce_ssl: vsky
