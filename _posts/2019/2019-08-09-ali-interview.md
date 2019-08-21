@@ -2,8 +2,8 @@
 layout: post
 title:  jmeter+nmon+crontab简单的执行接口定时压测.......
 no-post-nav: true
-category: it
-tags: [it]
+category: jmeter
+tags: [jmeter]
 excerpt: 压测
 ---
 
