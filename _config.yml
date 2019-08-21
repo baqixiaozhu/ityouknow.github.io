@@ -7,7 +7,7 @@
 
 # Site settings
 title:  vsky
-subtitle: 分享技术，品味人生
+subtitle: 好好学习，天天向上
 name: vsky 
 email: vsky.tester@foxmail.com
 description: 本站是vsky的技术分享博客。内容涵盖生活故事、测试技术类经验、自动化测试、性能测试等等知识分享及个人工作笔记。
@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: baqixiaozhu/vsky
 github_url: https://github.com/baqixiaozhu/vsky
-url: https://vsky
+url: https://baqixiaozhu.github.io/vsky/
 enforce_ssl: vsky
 
 ## Gem
@@ -61,13 +61,13 @@ menus:
     target: _self
 
   -
-    href: /it.html
-    label: IT
+    href: /jmeter.html
+    label: jmeter
     target: _self
 
   -
-    href: /zsxq.html
-    label: 星球
+    href: /selenium.html
+    label: selenium
     target: _self   
 
   -
@@ -76,8 +76,8 @@ menus:
     target: _self
 
   -
-    href: /arch.html
-    label: 架构
+    href: /autoit.html
+    label: autoit
     target: _self
 
   -
@@ -184,7 +184,7 @@ classes:
 
   -
     href: /life.html
-    name: 我的故事
+    name: 日常故事
     describe: 生活就是故事，故事就是生活
 
   -
