@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 自动化
-titlebar: autotest
+titlebar: jmeter
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 自动化测试
-menu: 自动化
+menu: jmeter
 css: ['blog-page.css']
-permalink: /it
+permalink: /jmeter
 ---
 
 <div class="row">
