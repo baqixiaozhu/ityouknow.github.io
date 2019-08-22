@@ -95,18 +95,18 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring Boot
+    href: /测试工具.html
+    label: 测试工具
     target: _self
     subnav:
 
       -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
+        subHref: /selenium.html
+        subLabel: selenium
 
       -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
+        subHref: /selenium.html
+        subLabel: selenium
 
   -
     href: /spring-cloud.html
@@ -145,12 +145,12 @@ labels:
 
   -
     href: /payment.html
-    label: 支付     
+    label: other     
     target: _self
 
   -
     href: /fastdfs.html
-    label: FastDFS
+    label: shell
     target: _blank
 
   -
